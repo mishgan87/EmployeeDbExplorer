@@ -6,3 +6,5 @@
 /EmployeeDbExplorer/obj
 /EmployeeDbExplorer/bin/Debug/net8.0
 /EmployeeDbExplorer/bin/x64/Debug/net8.0
+/EmployeeDbExplorer/bin/Release/net8.0/win-x64
+/publish

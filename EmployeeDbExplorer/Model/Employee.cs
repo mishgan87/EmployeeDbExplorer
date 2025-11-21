@@ -21,7 +21,7 @@ namespace EmployeeDbExplorer.Model
         public override string ToString()
         {
             return $"ID: {EmployeeID}, Name: {FirstName} {LastName}, Email: {Email}, " +
-                   $"Date of Birth: {DateOfBirth:yyyy-MM-dd}, Salary: {Salary:C}";
+                   $"Date of Birth: {DateOfBirth:yyyy-MM-dd}, Salary: {Salary}";
         }
     }
 }

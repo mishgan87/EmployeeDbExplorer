@@ -5,6 +5,7 @@
 Файлы приложения
   - EmployeeDbExplorer.exe - исполняемый файл
   - settings.xml - файл конфигурации с строкой подключения
+  - publish.7z - пример файла настроек и приложение
 
 Команда для сборки
   dotnet publish -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -p:IncludeAllContentForSelfExtract=false -o ./publish
